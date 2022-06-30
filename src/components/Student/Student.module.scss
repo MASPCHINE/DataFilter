@@ -1,0 +1,28 @@
+.card {
+    margin: 5px;
+    padding: 5px;
+  
+    width: auto;
+    height: auto;
+  
+    background-color: rgb(54, 73, 60);
+    border-radius: 8px;
+  
+    &__name {
+      font-size: 24px;
+      font-family: Arial;
+      color: white;
+    }
+  
+    &__group {
+      font-size: 24px;
+      font-family: Arial;
+      color: whitesmoke;
+    }
+  
+    &__assistant {
+      font-size: 24px;
+      font-family: Arial;
+      color: whitesmoke;
+    }
+  }
